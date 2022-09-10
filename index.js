@@ -9,7 +9,7 @@ function PrimeNumber(target){
             }
         }
         if(divisions <= 2){
-            console.log("isPrimeNumber2 : ", i);
+            console.log("isPrimeNumber : ", i);
         }
     }
 }
